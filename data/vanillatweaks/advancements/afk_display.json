@@ -3,8 +3,8 @@
 		"icon": {
 			"item": "minecraft:fishing_rod"
 		},
-		"title": "AFK Display         ",
-		"description": ["",{"text":"Greys out a player's name when they have not moved for 5 minutes.","color":"gold"}],
+		"title": "AFK 顯示         ",
+		"description": ["",{"text":"當玩家 5 分鐘沒有移動時，名字會變灰色。","color":"gold"}],
 		"show_toast": false,
 		"announce_to_chat": false
 	},
