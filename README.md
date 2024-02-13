@@ -1,4 +1,4 @@
-# AFK Display zh-tw
+# AFK Display [Chinese Traditional]
 
 VanillaTweaks Unofficial Traditional Chinese fork
 
